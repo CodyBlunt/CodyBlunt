@@ -10,7 +10,7 @@ All solutions are help on this website(still to be created) and has a UI to inte
 
 Below is the general architecture for how the website itself is hosted. It's very simple as it can be hosted directly with S3. 
 
-![General Web Architecture](./NotSoBluntDevWebArchitecture.png)
+![General Web Architecture](./assets/webArchitecture/NotSoBluntDevWebArchitecture.png)
 
 <!---
 CodyBlunt/CodyBlunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
